@@ -9,6 +9,9 @@
 7. Análisis de correlaciones para irrelevancias  con la variable objetivo
 8. Balanceo de datos en la variable objetivo (clasificación)
 9. Ingeniería de características
+    
    9.1 Creación de nuevas variables
+   
    9.2 Transformaciones para métodos que requieren variables categóricas (discretización)
+   
    9.3 Transformaciones para métodos que requieren variables numéricas (normalización, dummies y codificación de la objetivo)
